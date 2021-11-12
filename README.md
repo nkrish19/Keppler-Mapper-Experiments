@@ -39,3 +39,6 @@ env\Scripts\activate
 pip3 install -r requirements.txt
 ```
 
+Our code is a further experimentation on the work done by [Kim _et al._](https://arxiv.org/abs/2002.02778) 
+
+https://github.com/jisuk1/pllay
