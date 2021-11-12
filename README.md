@@ -13,13 +13,11 @@ https://github.com/git-lfs/git-lfs/blob/main/docs/man/git-lfs-migrate.1.ronn?utm
 
 1. Clone or download this repository.
 
-2. If you find that some files in your working directory have been replaced with Git LFS pointers, then the working copies of these files can be repopulated with their full expected contents by using
+2. If you find that some files in your working directory have been replaced with Git LFS pointers, then the working copies of these files can be repopulated with their full expected contents by using the below mentioned command or you can simply download [mnist_x_processed_10_10](https://github.com/nkrish19/Keppler-Mapper-Experiments/files/7524581/mnist_x_processed_10_10.zip) instead.
 
 ```
 git lfs checkout
 ```
-
-Or you can simply download [mnist_x_processed_10_10](https://github.com/nkrish19/Keppler-Mapper-Experiments/files/7524581/mnist_x_processed_10_10.zip) from here instead.
 
 3. Create a virtual environment.
 
