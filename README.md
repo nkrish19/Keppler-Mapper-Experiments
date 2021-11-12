@@ -2,7 +2,7 @@
 
 **Note:**
 
-You might need to install git lfs. Head here for more details:
+You might need to install git lfs to succesfully download the mnist_x_processed_10_10 file since it exceeds 100mb size limit. Head here for more details:
 
 https://git-lfs.github.com/
 
