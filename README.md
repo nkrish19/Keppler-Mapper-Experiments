@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7f6d0bb9b4fd607b4528ef3874a4c1259eb79f7975980aed65a78b888cca1e46
-size 33
+**Keppler Mapper Experiments
+**
+**
+Note:**
+You might need to install git lfs. Head here for more details:
+https://git-lfs.github.com/
+https://github.com/git-lfs/git-lfs/blob/main/docs/man/git-lfs-migrate.1.ronn?utm_source=gitlfs_site&utm_medium=doc_man_migrate_link&utm_campaign=gitlfs
