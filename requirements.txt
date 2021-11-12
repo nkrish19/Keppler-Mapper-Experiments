@@ -1,0 +1,3 @@
+tensorflow>=2.0.0
+kmapper
+gudhi>=3.2.0
